@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow all folders to be checked
+!*/
+
+# Allow ONLY Beginner - Code folder
+!Beginner - Code/
+
+# Allow everything inside Beginner - Code
+!Beginner - Code/**
+
+# Don't ignore the gitignore file itself
+!.gitignore
+
